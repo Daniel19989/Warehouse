@@ -17,7 +17,7 @@ const Header = () => {
         <AppBar position="static">
             <Toolbar>
                 <Typography variant="h6" className={classes.title}>
-                    MY SHOP
+                    MY WAREHOUSE
                 </Typography>
             </Toolbar>
         </AppBar>
