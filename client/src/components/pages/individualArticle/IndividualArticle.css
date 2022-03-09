@@ -1,0 +1,19 @@
+.card {
+    display: flex;
+    justify-content: center;
+    margin-top: -60px;
+}
+
+.button {
+    margin: 14px;
+}
+
+.shops {
+    padding: 8px;
+    margin: 10px;
+}
+
+.quantity {
+    margin: 10px;
+    padding: 8px;
+}

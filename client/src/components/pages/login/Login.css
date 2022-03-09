@@ -1,0 +1,42 @@
+.whole {
+    margin-top: 200px;
+    margin-left: 700px;
+    display: flex;
+    border: 4px;
+    border-color: rgb(0, 14, 2);
+    border-style: solid;
+    max-width: 270px;
+    min-height: 50px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    background-color: rgba(30, 150, 98, 0.741);
+    width: 100%;
+    padding: 50px;
+}
+
+span {
+    color: rgb(12, 12, 12);
+    font-weight: bold;
+}
+
+input {
+    display: flex;
+    max-width: 1100px;
+}
+
+.sign-in {
+    padding: 10px;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+button {
+    background-color: rgb(40, 0, 121);
+    color: white;
+    padding: 6px;
+    border-radius: 20%;
+    margin-left: 45px;
+}
